@@ -1,7 +1,7 @@
 # Spotify_Clone
 # Description
-Created the clone of music playing application
-Functionalities Includes: Play, Pause and Seek can be done.
-This project is based on HTML, CSS and JavaScript.
+1. Created the clone of music playing application
+2. Functionalities Includes: Play, Pause and Seek can be done.
+3. This project is based on HTML, CSS and JavaScript.
 
 #Screenshot of the Interface
